@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Wlcome to our second slide!"
+title: "Welcome to our second slide!"
 ---
-Your text
+Roses are red, Violets are blue
 Use the left arrow to go back
